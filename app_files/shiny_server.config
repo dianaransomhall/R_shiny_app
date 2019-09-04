@@ -1,0 +1,24 @@
+# Instruct Shiny Server to run applications as the user 'shiny' 
+run_as ubuntu;
+
+#Define a server that listens on port 3838
+server {
+  listen 3838;
+  #Define a location at the base URL
+  location /home/ubuntu/R_shiny_app {
+    #Host the dir of Shiny Apps stored in this dir
+    site_dir /home/ubuntu/R_shiny_app
+    
+    # log all Siny output to files in this dir
+    log_dir /home/ubuntu/R_shiny_app/log;
+    
+    #when user visits the base URL rather 
+    # than a particular application,
+    # and index of the applications avail
+    # in this dir will be shown
+    directory_index on;
+    app_init_timeout 250;
+    
+    
+  }
+}

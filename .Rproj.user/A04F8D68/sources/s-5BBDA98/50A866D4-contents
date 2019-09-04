@@ -5,7 +5,7 @@ run_as ubuntu;
 server {
   listen 3838;
   #Define a location at the base URL
-  location /R_shiny_app {
+  location /home/ubuntu/R_shiny_app {
     #Host the dir of Shiny Apps stored in this dir
     site_dir /home/ubuntu/R_shiny_app
     

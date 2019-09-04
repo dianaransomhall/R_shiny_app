@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567562333850.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3163687299",
+    "id" : "F78414E6",
+    "lastKnownWriteTime" : 1567562535,
+    "last_content_update" : 1567562535450,
+    "path" : "~/Dropbox/Documents/employment/Jobs_SanFran/verge_genomics/R_shiny_app/ssh/ec2_connect.sh",
+    "project_path" : "ssh/ec2_connect.sh",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sh"
+}

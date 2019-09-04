@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3163687299",
+    "hash" : "0",
     "id" : "F78414E6",
-    "lastKnownWriteTime" : 1567562535,
-    "last_content_update" : 1567562535450,
+    "lastKnownWriteTime" : 1567563161,
+    "last_content_update" : 1567563161698,
     "path" : "~/Dropbox/Documents/employment/Jobs_SanFran/verge_genomics/R_shiny_app/ssh/ec2_connect.sh",
     "project_path" : "ssh/ec2_connect.sh",
     "properties" : {
-        "cursorPosition" : "3,0",
+        "cursorPosition" : "6,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
